@@ -1,20 +1,20 @@
-Angry Birds in Python
+Angry Dikons
 =====================
-[Youtube Video](https://www.youtube.com/watch?v=B7G5JtCFepE&feature=youtu.be)
+[Ютуб Видео](https://www.youtube.com/watch?v=sDWKuw2g5ko)
 
 ![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
 
-Requirements
+Для начала напишите это
 ------------
 ```bash
 pip install -r requirements.txt
 ```
 
-To play
+Для продолжения
 -------
-1. Clone the project.
-2. Open the src folder.
-3. `python main.py`
+1. Откройте проект
+2. Откройте папку src
+3. Запустите `python main.py`
 
 Zero Gravity
 ------------
@@ -22,12 +22,6 @@ Zero Gravity
 * To activate the "zero gravity mode" press key s.
 * To back to normal mode press key n.
 
-Activate &  Deactivate the wall
--------------------------------
-![Alt text](/resources/images/walls.png?raw=true "angry-birds")
-* To activate or deactivate the wall press key w.
-
-Join the project
+За основу был взят Angry Birds on Python
 ----------------
-The project is Open Source. Feel free to contribute.
-Please help me to keep this project updated! Thanks you very much :)
+Ссылка на исходник - https://github.com/estevaofon/angry-birds-python
