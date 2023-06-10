@@ -2,7 +2,7 @@ Angry Dikons
 =====================
 [Ютуб Видео](https://www.youtube.com/watch?v=sDWKuw2g5ko)
 
-![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
+![Alt text](/resources/images/dicon1.png?raw=true "angry-birds")
 
 Для начала напишите это
 ------------
